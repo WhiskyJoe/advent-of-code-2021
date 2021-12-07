@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using UnityEngine;
 
-public class Dive : MonoBehaviour
+public class DayTwo : MonoBehaviour
 {
 	protected void Start()
 	{
